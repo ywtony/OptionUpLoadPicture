@@ -1,3 +1,3 @@
 # OptionUpLoadPicture
 
-![project](https://github.com/ywtony/OptionUpLoadPicture/raw/master/logo/project.gif)
+![project](https://github.com/ywtony/OptionUpLoadPicture/raw/master/logo/project.png)
